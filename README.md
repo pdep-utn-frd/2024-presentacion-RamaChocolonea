@@ -1,10 +1,6 @@
-# presentacion-
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
 
-Ya saben usar git!
+Ramiro
+20 años
+Nunca programé 
+Ahora estoy trabajando de Tester y empecé a programar hace poco
